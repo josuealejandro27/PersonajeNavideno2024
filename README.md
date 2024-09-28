@@ -29,7 +29,7 @@ Proyecto Final: https://wokwi.com/projects/410120820718758913
 Personaje Navideño: https://wokwi.com/projects/410213755584621569
 
 ## Videos
-Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
+Enlace de drive para los dos videos: https://drive.google.com/drive/folders/1foUu_EqVTahnZYUfdsAdqm9omzHfu5vc?usp=sharing
 
 ## Capturas de Evaluaciones de Curso de C
-Capturas de pantalla de sus resultados de evaluaciones del curso de C.
+Enlace a drive para las capturas de curso de C: https://drive.google.com/file/d/1Tsxvccu7GUXzTh5fVi-ANeoxZruk65ZQ/view?usp=sharing
