@@ -19,13 +19,14 @@ Al momento de que alguien se acerque y haga sombra el muñeco va a mover el braz
 |Software|Versión|
 |--|--|
 |Thonny|4.1.6|
-|...||
+
 
 ## Dibujo del personaje
-Imagen hecha a mano del personaje con los componentes electronicos requeridos.
+![Imagen de WhatsApp 2024-09-27 a las 21 12 37_f72ef738](https://github.com/user-attachments/assets/51eeddfe-de59-466e-9d25-70d64a864a04)
 
 ## Enlaces de la simulación de wokwi
-Deben ser de 1 a 2 enlaces de wokwi
+Proyecto Final: https://wokwi.com/projects/410120820718758913
+Personaje Navideño: https://wokwi.com/projects/410213755584621569
 
 ## Videos
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
